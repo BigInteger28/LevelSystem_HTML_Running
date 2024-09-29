@@ -40,7 +40,7 @@ var leagues = []struct {
 	{"Cyan", "#00FFFF", "black"},
 	{"Blue", "#0000FF", "white"},
 	{"Dark Blue", "#00008B", "white"},
-	{"Pink", "#FFC1CC", "black"},
+	{"Pink", "#FFB3DE", "black"},
 	{"Magenta", "#FF00FF", "white"},
 	{"Bright Lavender", "#BF94E4", "black"},
 	{"Purple", "#800080", "white"},
