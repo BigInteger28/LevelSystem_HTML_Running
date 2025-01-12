@@ -76,7 +76,7 @@ func getColorBackground(level int) string {
 
 func getLevel(elo int) int {
 	var eloEachLevel int = 75
-	var eloLevel2 int = 875
+	var eloLevel2 int = 800
 	if elo < eloLevel2 {
 		return 1
 	} else {
