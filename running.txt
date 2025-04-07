@@ -1,123 +1,160 @@
 Alex Kibet   2979   20km Brussel 2024
-Caroline De Veuster 11km   1524
-Caroline De Veuster 5km   1496
-Chelsea Versyp 5km   1517
-Elien Janssen 42.2km   2522
-Elien Janssen 21.1km   2458
-Elien Janssen 10km   2417
-Elien Janssen 15km   2383
-Elien Janssen 5km   2197
-Eliud Kipchoge 42.2km   3399
-Ewout Demoen 42.2km   2652
-Ewout Demoen 21.1km   2627
-Ewout Demoen 15km   2516
-Ewout Demoen 10km   2451
-Ewout Demoen 5km   2249
-Femke Bol 400m   2866
-Floriane Hot 42.2km   2691
-Floriane Hot 21.1km   2526
-Floriane Hot 15km   2443
-Floriane Hot 10km   2421
-Floriane Hot 5km   2213
-Jack Rowe 5km   2695
-Jacob Ingebrigtsen 10km   2916
-Jacob Ingebrigtsen 5km   2916
-Jacob Ingebrigtsen 2km   2816
-Jacob Ingebrigtsen 1.5km   2803
-Jacob Ingebrigtsen 3km   2791
-Jacob Kiplimo 21.1km   3241
-Joris Verstegen 13km   1973
-Joris Verstegen 10km   1816   
+Amber Ryheul 7.7km (Corrida 2015)   1565   42m24s
+Camille Deceuninck 7.9km (Corrida 2016)   1767   38m21s
+Caroline De Veuster 11km   1524   1u05m00s
+Caroline De Veuster 5km 2021   1496   27m10s
+Caroline De Veuster 5km 2025   1382   29m32
+Charlotte Chraeynest 7.7km (Corrida 2015)   1445   45m34s
+Chelsea Herpoel 1.6km   1354   8m50s
+Chelsea Herpoel 5km   1141   34m52s
+Chelsea Herpoel 13km   1102   1u44m00s
+Chelsea Versyp 5km   1517   26m56s
+Delphine Verstegen 7.9km (Corrida 2016)   1493   45m33s
+Elien Janssen 42.2km   2522   2u54m19s
+Elien Janssen 21.1km   2458   1u21m45s
+Elien Janssen 10km   2417   35m21s
+Elien Janssen 15km   2383   57m14s
+Elien Janssen 5km   2197   17m41s
+Eliud Kipchoge 42.2km   3399   1u59m40s
+Ewout Demoen 42.2km   2652   2u44m19s
+Ewout Demoen 21.1km   2627   1u14m57s
+Ewout Demoen 15km   2516   53m20s
+Ewout Demoen 10km   2451   34m43s
+Ewout Demoen 5km   2249   17m09s
+Femke Bol 400m   2866   0m49s
+Floor Heindryckx 7.7km (Corrida 2015)   1202   53m42s
+Floriane Hot 42.2km   2691   2u41m14s
+Floriane Hot 21.1km   2526   1u18m52s
+Floriane Hot 15km   2443   55m24s
+Floriane Hot 10km   2421   35m17s
+Floriane Hot 5km   2213   17m31s
+Jack Rowe 5km   2695   13m40s
+Jacob Ingebrigtsen 10km   2916   27m54s
+Jacob Ingebrigtsen 5km   2844   12m47s
+Jacob Ingebrigtsen 2km   2816   4m43s
+Jacob Ingebrigtsen 1.5km   2803   3m30s
+Jacob Ingebrigtsen 3km   2791   7m23s
+Jacob Kiplimo 21.1km   3241   57m31s
+Jonas Verschaeve 7.7km (Corrida 2015)   1748   37m39s
+Joris Verstegen 13km   1973   1u09m02s
+Joris Verstegen 800m   1892   2m54s
+Joris Verstegen 5km   1824   22m04s
+Joris Verstegen 10km   1816   49m09s
+Joris Verstegen 7.7km   1799   36m31s
+Joris Verstegen 6.2km   1721   29m53s
 Joris Verstegen (07/2024)   1523
-Usain Bolt 100m   3449
-------------- LEVEL 1 -------------   0
-------------- WOOD II -------------   0
-------------- LEVEL 2 -------------   875
-------------- WOOD I -------------   875
-------------- LEVEL 3 -------------   950
-------------- IRON II -------------   950
-------------- LEVEL 4 -------------   1025
-------------- IRON I -------------   1025
-------------- LEVEL 5 -------------   1100
-------------- BRONZE III -------------   1100
-------------- LEVEL 6 -------------   1175
-------------- BRONZE II -------------   1175
-------------- LEVEL 7 -------------   1250
-------------- BRONZE I -------------   1250
-------------- LEVEL 8 -------------   1325
-------------- SILVER III -------------   1325
-------------- LEVEL 9 -------------   1400
-------------- SILVER II -------------   1400
-------------- LEVEL 10 -------------   1475
-------------- SILVER I -------------   1475
-------------- LEVEL 11 -------------   1550
-------------- GOLD III -------------   1550
-------------- LEVEL 12 -------------   1625
-------------- GOLD II -------------   1625
-------------- LEVEL 13 -------------   1700
-------------- GOLD I -------------   1700
-------------- LEVEL 14 -------------   1775
-------------- PLATINUM III -------------   1775
-------------- LEVEL 15 -------------   1850
-------------- PLATINUM II -------------   1850
-------------- LEVEL 16 -------------   1925
-------------- PLATINUM I -------------   1925
-------------- LEVEL 17 -------------   2000
-------------- DIAMOND III -------------   2000
-------------- LEVEL 18 -------------   2075
-------------- DIAMOND II -------------   2075
-------------- LEVEL 19 -------------   2150
-------------- DIAMOND I -------------   2150
-------------- LEVEL 20 -------------   2225
-------------- EMERALD III -------------   2225
-------------- LEVEL 21 -------------   2300
-------------- EMERALD II -------------   2300
-------------- LEVEL 22 -------------   2375
-------------- EMERALD I -------------   2375
-------------- LEVEL 23 -------------   2450
-------------- MASTER III -------------   2450
-------------- LEVEL 24 -------------   2525
------------ MASTER II -----------   2525
-------------- LEVEL 25 -------------   2600
------------ MASTER I -----------   2600
-------------- LEVEL 26 -------------   2675
------------ GRAND MASTER III -----------   2675
-------------- LEVEL 27 -------------   2750
-------------- GRAND MASTER II -------------   2750
-------------- LEVEL 28 -------------   2825
-------------- GRAND MASTER I -------------   2825
-------------- LEVEL 29 -------------   2900
-------------- CHALLENGER III -------------   2900
-------------- LEVEL 30 -------------   2975
-------------- CHALLENGER II -------------   2975
-------------- LEVEL 31 -------------   3050
-------------- CHALLENGER I -------------   3050
-------------- LEVEL 32 -------------   3125
-------------- STAR III -------------   3125
-------------- LEVEL 33 -------------   3200
-------------- STAR II -------------   3200
-------------- LEVEL 34 -------------   3275
-------------- STAR I -------------   3275
-------------- LEVEL 35 -------------   3350
-------------- ELITE III -------------   3350
-------------- LEVEL 36 -------------   3425
-------------- ELITE II -------------   3425
-------------- LEVEL 37 -------------   3500
-------------- ELITE I -------------   3500
-------------- LEVEL 38 -------------   3575
-------------- LEGEND III -------------   3575
-------------- LEVEL 39 -------------   3650
-------------- LEGEND II -------------   3650
-------------- LEVEL 40 -------------   3725
-------------- LEGEND I -------------   3725
-------------- LEVEL 41 -------------   3800
-------------- GOAT III -------------   3800
-------------- LEVEL 42 -------------   3875
-------------- GOAT II -------------   3875
-------------- LEVEL 43 -------------   3950
-------------- GOAT I -------------   3950
-------------- LEVEL 44 -------------   4025
-------------- LEVEL 45 -------------   4100
-------------- LEVEL 46 -------------   4175
-------------- LEVEL 47 -------------   4250
-------------- LEVEL 48 -------------   4325
+Joris Verstegen 5km (04/2025)   1554   26m15s
+Joris Verstegen 7.7km (Corrida 2015)   1457   45m13s
+Joshua Cheptegei 10km   3071   26m11s
+Joshua Cheptegei 5km   2884   12m35s
+Keltie O Connor 10km   1801   49m36s
+Kelvin Kiptum 42.2km   3379   2u00m35s
+Kitana Goes 5km   1688   24m00s
+Kitana Goes 9.05km   1674   47m40s
+Koen Naert 20km   2957   1u00m31s 20km Brussel 2024
+Laure Devos 7.7km (Corrida 2015)   1467   44m57s
+Lennert Duponcheel 7.7km (Corrida 2015)   1570   42m16s
+Lieke Klaver 200m   3006   22.46s
+Lisa Claeys 7.7km (Corrida 2015)   1049   1u00m30s
+Lisa Migliorini 21.1km   2428   1u23m07s The Fashion Jogger
+Lisa Migliorini 10km   2315   37m23s The Fashion Jogger
+Lisa Migliorini 20km   2259   1u26m19s The Fashion Jogger
+Lisa Migliorini 42.2km   2226   3u19m17s The Fashion Jogger
+Lisa Migliorini 5km   2139   18m18s The Fashion Jogger
+Loes Sierens 800m   1962   2m46s
+Loes Sierens 1.5km   1868   5m49s
+Loes Sierens 7.7km (Corrida 2017)   1740   37m51s
+Louis Van Den Broucke 20km   2419   1u18m22s
+Louis Van Den Broucke 15km   2339   58m41s
+Louis Van Den Broucke 10km   2319   37m19s
+Louis Van Den Broucke 5km   2206   17m35s
+Louis Van Den Broucke 1.6km   2084   05m24s
+Louis Van Den Broucke 1km   2070   03m20s
+Louis Van Den Broucke 400m   2061   01m13s
+Luna Verfaillie 1km   2379   02m48s
+Luna Verfaillie 5km   1916   20m56s
+Luna Verfaillie 21.1km   1688   2u02m00s
+Luna Verfaillie 15km   1627   1u26m16s
+Lynn Dekeyser 5km   2241   17m14s
+Lynn Dekeyser 4km   2113   14m24s
+Lynn Dekeyser 7.9km (Corrida 2016)   2302   28m17s
+Martijn Verbrugge 7.7km (Corrida 2015)   1917   34m06s
+Megan Perquy 7.9km (Corrida 2016)   1531   44m31s
+Michiel Deseins 7.7km (Corrida 2017)   1847   35m29s
+Miet D'Hoore 7.9km (Corrida 2016)   1330   50m31s
+Mo Farah 21.33km   3162   1u00m00s
+Mo Farah 10km   3011   26m49s
+Mo Farah 5km   2829   12m53s
+Nick Bester 5km   2511   14m55s (77kg)
+Niene Copman 7.7km (Corrida 2015)   1510   43m48s
+Nina Chydenius 5km   2427   15m34s
+Noah Ngeny 1km   2923   02m11s
+Quinten Dewaele 5km   2640   14m01s Beste Dwars Door Brugge
+Robin Claerhout 5km   1621   25m04s
+Robin Claerhout 16.1km   1614   1u33m57s
+Robin Claerhout 15km   1608   1u27m13s
+Robin Claerhout 10km   1559   57m25s
+Romy Colsen 16.62km   2302   1u07m15s
+Romy Colsen 15km   2257   1u01m14s 
+Romy Colsen 21.1km   2214   1u32m00s 
+Romy Colsen 42.2km   2209   3u21m00s 
+Romy Colsen 20km   2194   1u27m20s 
+Romy Colsen 10km   2156   40m52s 
+Romy Colsen 5km   2042   19m27s
+Sarah Claeys 7.7km (Corrida 2015)   1057   1u00m08s
+Saskia Van Marck 7.7km (Corrida 2015)   2160   29m49s
+Simon Mattheus 7.7km (Corrida 2015)   2139   30m12s
+Sophie Hardy 20km   2610   1u10m56s 20km Brussel 2024
+Sportieve grens 5km   1350   30m00s
+Thomas Dekeyser 5km   2465   15m16s
+Thomas Dekeyser 7.7km (Corrida 2015)   2454   25m16s
+Trui Vandenbulcke 7.9km (Corrida 2014)   2125   31m25s
+Tyler Speers 10km   2491   34m00s
+Tyler Speers 5km   2298   16m41s
+Usain Bolt 200m   3449   19.19s
+Usain Bolt 150m   3434   14.35s
+Usain Bolt 100m   3406   09.58s
+Youri Muyle 7.9km (Corrida 2016)   1746   38m50s
+------- LEVEL 1 WOOD II -------   0
+------- LEVEL 2 WOOD I -------   725
+------- LEVEL 3 IRON II -------   800
+------- LEVEL 4 IRON I -------   875
+------- LEVEL 5 BRONZE III -------   950
+------- LEVEL 6 BRONZE II -------   1025
+------- LEVEL 7 BRONZE I -------   1100
+------- LEVEL 8 SILVER III -------   1175
+------- LEVEL 9 SILVER II -------   1250
+------- LEVEL 10 SILVER I -------   1325
+------- LEVEL 11 GOLD III -------   1400
+------- LEVEL 12 GOLD II -------   1475
+------- LEVEL 13 GOLD I -------   1550
+------- LEVEL 14 PLATINUM III -------   1625
+------- LEVEL 15 PLATINUM II -------   1700
+------- LEVEL 16 PLATINUM I -------   1775
+------- LEVEL 17 DIAMOND III -------   1850
+------- LEVEL 18 DIAMOND II -------   1925
+------- LEVEL 19 DIAMOND I -------   2000
+------- LEVEL 20 EMERALD III -------   2075
+------- LEVEL 21 EMERALD II -------   2150
+------- LEVEL 22 EMERALD I -------   2225
+------- LEVEL 23 MASTER III -------   2300
+------- LEVEL 24 MASTER II -------   2375
+------- LEVEL 25 MASTER I -------   2450
+------- LEVEL 26 GRAND MASTER III -------   2525
+------- LEVEL 27 GRAND MASTER II -------   2600
+------- LEVEL 28 GRAND MASTER I -------   2675
+------- LEVEL 29 CHALLENGER III -------   2750
+------- LEVEL 30 CHALLENGER II -------   2825
+------- LEVEL 31 CHALLENGER I -------   2900
+------- LEVEL 32 STAR III -------   2975
+------- LEVEL 33 STAR II -------   3050
+------- LEVEL 34 STAR I -------   3125
+------- LEVEL 35 ELITE III -------   3200
+------- LEVEL 36 ELITE II -------   3275
+------- LEVEL 37 ELITE I -------   3350
+------- LEVEL 38 LEGEND III -------   3425
+------- LEVEL 39 LEGEND II -------   3500
+------- LEVEL 40 LEGEND I -------   3575
+------- LEVEL 41 GOAT III -------   3650
+------- LEVEL 42 GOAT II -------   3725
+------- LEVEL 43 GOAT I -------   3800
