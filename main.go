@@ -28,30 +28,30 @@ var leagues = []struct {
 	Foreground string
 }{
 	{"White", "#FFFFFF", "black"},
+	{"Brown", "#8B4513", "white"},
 	{"Grey", "#C0C0C0", "black"},
+	{"Taupe", "#B9A281", "white"},
+	{"Olive", "#808000", "white"},
+	{"Black", "#000000", "white"},
 	{"Yellow", "#FFFF00", "black"},
-	{"Ochre Yellow", "#FFC619", "black"},
-	{"Salmon", "#FA8072", "black"},
-	{"Orange", "#FF8C00", "black"},
+	{"Green", "#008000", "white"},
 	{"Lime", "#00FF00", "black"},
 	{"Mint", "#98FF98", "black"},
-	{"Green", "#008000", "white"},
 	{"Teal Green", "#00827F", "white"},
-	{"Cyan", "#00FFFF", "black"},
 	{"Blue", "#0000FF", "white"},
 	{"Dark Blue", "#00008B", "white"},
-	{"Pink", "#FFB3DE", "black"},
-	{"Magenta", "#FF00FF", "white"},
-	{"Bright Lavender", "#BF94E4", "black"},
-	{"Purple", "#800080", "white"},
-	{"Indigo", "#400040", "white"},
-	{"Olive", "#808000", "white"},
-	{"Taupe", "#B9A281", "white"},
-	{"Brown", "#8B4513", "white"},
 	{"Red", "#FF0000", "white"},
 	{"Crimson", "#DC143C", "white"},
 	{"Dark Red", "#8B0000", "white"},
-	{"Black", "#000000", "white"},
+	{"Ochre", "#FFC619", "black"},
+	{"Orange", "#FF8C00", "black"},
+	{"Bright Lavender", "#BF94E4", "black"},
+	{"Purple", "#800080", "white"},
+	{"Turquoise", "#40e0d0", "black"},
+	{"Cyan", "#00FFFF", "black"},
+	{"Pink", "#FFB3DE", "black"},
+	{"Magenta", "#FF64B4", "white"},
+	{"Salmon", "#FA8072", "black"},
 }
 
 func getColorAndForeground(level int) (string, string) {
@@ -146,8 +146,12 @@ func main() {
 	})
 
 	// Assign correct place values
+	var pos int = 1
 	for i := range entries {
-		entries[i].Plaats = i + 1
+		if !strings.HasPrefix(entries[i].Naam, "---") {
+			entries[i].Plaats = pos
+			pos++
+		}
 	}
 
 	// Generate HTML
@@ -193,7 +197,7 @@ const htmlTemplate = `
 		</tr>
 		{{range .}}
 		<tr style="background-color: {{.Color}}; color: {{.Foreground}}">
-			<td>{{.Plaats}}</td>
+			<td>{{if .Plaats}}{{.Plaats}}{{end}}</td>
 			<td>{{.Naam}}</td>
 			<td>{{.Level}}</td>
 			<td>{{.ColorName}}</td>
